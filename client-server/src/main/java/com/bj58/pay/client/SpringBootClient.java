@@ -1,15 +1,13 @@
 package com.bj58.pay.client;
 
-import com.bj58.pay.service.RemitService;
 import com.bj58.pay.starter.annotation.NettyContractScanner;
-import com.bj58.pay.starter.properties.NettyClientProperties;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.context.ConfigurableApplicationContext;
 
 /**
- * @author yy
+ * @auth stayreal0618
  * @version 1.0v
  * @description
  * @date 2020/12/4 下午7:10
