@@ -1,0 +1,6 @@
+netty:
+ rpc:
+  server:
+    bossSize: 1
+    workerSize: 8
+    port: 8888
