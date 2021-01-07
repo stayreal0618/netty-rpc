@@ -11,7 +11,7 @@ import io.netty.channel.ChannelHandlerContext;
 import io.netty.handler.codec.MessageToByteEncoder;
 
 /**
- * @author yy
+ * @author stayreal0618
  * @version 1.0v
  * @description
  * @date 2020/12/7 下午10:10

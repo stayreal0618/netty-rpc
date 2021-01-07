@@ -7,7 +7,7 @@ import java.io.Serializable;
 import java.util.List;
 
 /**
- * @author yy
+ * @author stayreal0618
  * @version 1.0v
  * @description rpc请求时候的请求实体
  * @date 2020/11/28 下午5:00

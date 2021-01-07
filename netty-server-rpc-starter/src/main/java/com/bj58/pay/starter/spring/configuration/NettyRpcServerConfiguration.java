@@ -8,7 +8,7 @@ import org.springframework.context.annotation.Configuration;
 import com.bj58.pay.starter.annotation.NettyRpcServer;
 
 /**
- * @author yy
+ * @author stayreal0618
  * @version 1.0v
  * @description
  * @date 2020/11/13 14:34

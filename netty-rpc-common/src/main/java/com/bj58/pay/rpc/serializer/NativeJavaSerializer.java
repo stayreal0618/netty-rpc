@@ -5,7 +5,7 @@ import com.bj58.pay.rpc.constants.SerializeVersion;
 import java.io.*;
 
 /**
- * @author yy
+ * @author stayreal0618
  * @version 1.0v
  * @description
  * @date 2020/12/9 上午10:45

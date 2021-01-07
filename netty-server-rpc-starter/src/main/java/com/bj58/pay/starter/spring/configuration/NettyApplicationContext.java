@@ -12,7 +12,7 @@ import org.springframework.context.annotation.ImportBeanDefinitionRegistrar;
 import org.springframework.core.type.AnnotationMetadata;
 
 /**
- * @author yy
+ * @author stayreal0618
  * @version 1.0v
  * @description bean注册
  * @date 2020/11/23 16:14

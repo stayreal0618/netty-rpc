@@ -5,7 +5,7 @@ import com.alibaba.fastjson.JSONObject;
 import com.bj58.pay.rpc.constants.SerializeVersion;
 
 /**
- * @author yy
+ * @author stayreal0618
  * @version 1.0v
  * @description 因为没有很好的方法进行反序列化requestInfo中的param
  * @date 2020/11/28 下午5:54

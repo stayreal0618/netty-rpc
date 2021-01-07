@@ -2,7 +2,7 @@ package com.bj58.pay.rpc.constants;
 
 /**
  * 协议
- * @author yy
+ * @author stayreal0618
  * @version 1.0v
  * @description
  * @date 2020/12/7 下午5:06

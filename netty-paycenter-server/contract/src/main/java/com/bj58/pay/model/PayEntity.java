@@ -5,7 +5,7 @@ import lombok.Data;
 import java.io.Serializable;
 
 /**
- * @author yy
+ * @author stayreal0618
  * @version 1.0v
  * @description 支付实体
  * @date 2020/11/16 10:58

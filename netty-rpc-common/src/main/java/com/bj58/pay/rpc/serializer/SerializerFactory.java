@@ -1,7 +1,7 @@
 package com.bj58.pay.rpc.serializer;
 
 /**
- * @author yy
+ * @author stayreal0618
  * @version 1.0v
  * @description
  * @date 2020/12/7 下午7:32

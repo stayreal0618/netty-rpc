@@ -5,7 +5,7 @@ import com.bj58.pay.model.RemitEntity;
 import com.bj58.pay.rpc.constants.SerializeVersion;
 
 /**
- * @author yy
+ * @author stayreal0618
  * @version 1.0v
  * @description
  * @date 2020/11/16 10:56

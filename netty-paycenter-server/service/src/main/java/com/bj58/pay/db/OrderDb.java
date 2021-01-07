@@ -3,7 +3,7 @@ package com.bj58.pay.db;
 import lombok.Data;
 
 /**
- * @author yy
+ * @author stayreal0618
  * @version 1.0v
  * @description
  * @date 2020/11/16 19:35
